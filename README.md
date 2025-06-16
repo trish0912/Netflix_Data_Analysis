@@ -73,7 +73,14 @@ Or install all using:
       Number of TV Shows: 2676
       Most Common Country: United States
       Most Popular Genre: Dramas
-      
+
+  Screenshots
+  
+    ![Content Type](images/content_type.png)
+    ![Top Countries](images/top_countries.png)
+    ![content per year](images/content_per_year.png)
+    ![top genres](images/top_genres.png)
+
 
 
 
